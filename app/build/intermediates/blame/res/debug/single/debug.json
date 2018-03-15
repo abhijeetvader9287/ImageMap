@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/abhijeet/git/POCs/Image Map/android-image-map-master1/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/abhijeet/git/POCs/Image Map/android-image-map-master1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/Image Map/android-image-map-master1/app/build/intermediates/res/merged/debug/xml_maps.xml.flat",
+        "source": "/home/abhijeet/git/POCs/Image Map/android-image-map-master1/app/src/main/res/xml/maps.xml"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/Image Map/android-image-map-master1/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/home/abhijeet/git/POCs/Image Map/android-image-map-master1/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/Image Map/android-image-map-master1/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/home/abhijeet/git/POCs/Image Map/android-image-map-master1/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/Image Map/android-image-map-master1/app/build/intermediates/res/merged/debug/drawable-nodpi_usamap.png.flat",
+        "source": "/home/abhijeet/git/POCs/Image Map/android-image-map-master1/app/src/main/res/drawable-nodpi/usamap.png"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/Image Map/android-image-map-master1/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/home/abhijeet/git/POCs/Image Map/android-image-map-master1/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/Image Map/android-image-map-master1/app/build/intermediates/res/merged/debug/drawable-nodpi_gridmap.png.flat",
+        "source": "/home/abhijeet/git/POCs/Image Map/android-image-map-master1/app/src/main/res/drawable-nodpi/gridmap.png"
+    }
+]
